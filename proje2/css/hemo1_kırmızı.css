@@ -1,0 +1,400 @@
+@media (min-width: 1030px) and (max-width: 1100px){
+    #deneme{
+        background-color: red;
+        height: 150px;
+        color: blue;
+    }
+    #üst_medya{
+        padding-left: 3% ;
+    }
+    #medya{
+        margin-left: 25%;
+    }
+    #marka_arka_plan{
+        background-color: #22bcd8;
+    }
+    #marka{
+        padding-left: 5%;
+        padding-top:3%;
+    }
+    .dropbtn {
+        background-color: white;
+        color: black;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        outline: none;
+        float: left;
+    }
+      
+    .dropdown {
+        background-color: white;
+        position: relative;
+        display: inline-block;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: darkgray;
+        min-width: 200px;
+        margin-top: 60%;
+        z-index: 1;
+    }
+    
+    .dropdown-content a {
+        color: white;
+        text-decoration: none;
+        display: block;
+        padding: 12px 16px;
+    }
+    
+    .dropdown-content a:hover {
+        background-color:#f7565f;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    .dropdown:hover .dropbtn {
+        color: #f7565f;
+        background-color: white;
+    }
+    .sidenav {
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #202020;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 5%;  
+    }
+    .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+        font-size: 20px;
+    }
+    .kutucuk2_{
+        border: 1px solid gray;
+        height: auto;        
+        padding: 5%;
+        padding-top: 15px;
+        
+
+    }
+
+    .sidenav a:hover {
+        color: #f1f1f1;
+        text-decoration: none;
+    }
+    .cta-two__moc {
+        height: 0px;
+        z-index: -1 ;position: absolute;
+        
+
+    }
+    #takım{
+        height: 540px;
+    }
+    .btn-thm{
+        background-color: #ff5860;
+        font-size: 20px;
+        color: #fff;
+        padding: 20px 20px;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+       
+    }
+    #ikon2_3{
+        font-size: 75px;
+    }
+    .btn-thm:hover {
+        background-color: black;
+        font-size: 20px;
+        color: #fff;
+        padding: 20px 20px;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+        text-decoration: none;
+    }
+
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+    }
+    #YanMenu{      
+        color: white;
+        font-size: 25px;
+    }
+    #marka{
+        padding-left: 5%;
+        padding-top: 40½;
+    }
+    #bol{
+        margin-top: 48%;
+    }
+
+    #navbar_ikon{
+       
+        text-align: right;
+        margin-left: 250%;
+        color: white;
+        font-size: 25px;
+        
+        cursor:pointer;
+    }
+    .thm-btnn {
+        z-index: -1;
+        position: absolute;
+    }
+    
+    #navbar{
+        z-index:-1 ;
+        position: absolute;
+        color: white;
+        padding-top: 0%;
+        margin-top: 0%;
+    }
+    #bol2 img{
+        height: 700px;
+    }
+    #bol2{
+        z-index: -1;
+        position: absolute;
+        margin-top: -15px;
+        height: 1500px;
+    }
+    #bol3{
+        margin-top: 10%;
+        padding-left: 4%;
+        background-color: white;
+        box-shadow: 0px 0px 18px 1px gainsboro; 
+    }
+    .baslık3 a:hover{
+        text-decoration: none;
+        color: #f7565f;
+        font-size: 18px;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+    }
+    #port img{
+        height: 50%;
+    }
+    #lorem{
+        font-size: 12px;
+    }
+    .baslık3 a{
+        text-decoration: none;
+        color: black;
+        font-size: 18px;
+    }
+    #resim{
+        width:120%;
+        height: 90%;
+    }
+    
+    #arka_plan_tr{
+        margin-top: 15%;
+        height: 750px;
+
+    }
+    .kutucuk2{
+        border: 1px solid gray;
+        height: 350px;        
+        padding: 15%;
+        
+
+    }
+    .kutucuk2:hover{
+        background-color: #f7565f;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+    }
+    .thm-btn {
+        background-color: #ff5860;
+        padding: 2%;
+        color: #fff;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+    }
+    .thm-btn:hover {
+        background-color: #ff5860;
+        padding: 2%;
+        color: #fff;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+        text-decoration: none;
+    }
+    .baslik a{
+        color: black; 
+        text-decoration: none; 
+        font-size: 15px;
+        width: 170px;
+        font-weight: bold;
+        
+    }
+    .baslik a:hover{
+        color:#f7565f;
+        text-decoration: none;
+        -webkit-transition: all .4s ease;
+        transition: all .4s ease;
+    }
+    #son3 img{
+        margin-top: -20%; margin-left: 10%;
+    }
+    
+
+    #res{
+        margin-left: -150px;
+        width:100%;
+        height:450px;
+        z-index: -1;
+        position: absolute;
+   }
+   .alt_btn {
+    background-color: #fcd9db;
+    font-family: "Rubik";
+    font-weight: 600;
+    font-size: 15px;
+    color: #f7565f;
+    padding: 8px 10px;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    text-decoration: none;
+}
+.alt_btn :hover {
+    background-color: #f7565f;
+    font-family: "Rubik";
+    font-weight: 600;
+    font-size: 15px;
+    color: white;
+    padding: 8px 10px;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    text-decoration: none;
+
+}
+
+   /* home2 */
+   #kişi1{
+        
+    background-color: #262626;
+
+}
+
+
+#kisi img:hover {
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    opacity: 0.5;
+}
+#pembe{
+    margin-top: 250px;
+}
+#mavi{
+    margin-top: 15%;
+    height: 450px;
+}
+#mavi2{
+    margin-top: 15%;
+    height: 1050px;
+}
+.kutucuk4 .yazi4{
+    padding: 10%;
+    background-color: white;
+}
+.kutucuk4 .yazi4:hover{
+    background-color: #f7565f;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+.kutucuk4 img:hover {
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    opacity: 0.5;  
+}
+#mavi4{
+    margin-top: 15%;
+    
+}
+.kutucuk{
+    height: 350px;
+    background-color: white;
+    
+    padding: 15%;
+
+}
+.kutucuk:hover{
+    background-color: #f7565f;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+#bol4{
+    margin-top: 28%;    
+}
+#sayfa4{
+    margin-top: 20%;
+    height: 450px;
+}
+#kisi4_3{
+    height: 750px;
+    margin-top:7%
+}
+header {
+    height: 55px;
+    background: #262626;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+}
+.logo {
+    width: 20%;
+    float: left;
+    line-height: 50px;
+    margin-left: -90px;
+}
+.logo a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: poppins;
+    color: #fff;
+    letter-spacing: 5px;
+}
+.buy
+{
+    float: right;
+    line-height: 33px;
+    background-color: #7aa93c;
+    border-radius: 5px;
+    text-align: center;
+    width: 95px;
+    margin-top: 8px;
+    margin-right: -75px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #fff;
+}
+.buy:hover
+{
+    text-decoration: none;
+    color: #fff;
+    background-color: #7aa93c;
+}
+.lacivert
+{
+    float: left;
+    margin-top: 50px;
+}
+   
+}
